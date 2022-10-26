@@ -29,7 +29,7 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 
 ## Dashboard 
 
-![FireShot Capture 001 - Atliq_mart_Supply_chain_analysis - Power BI - app powerbi com](https://user-images.githubusercontent.com/89390696/197978539-3d7bd2ea-c89d-4bd7-8ea5-30eccf0b32fc.png)
+![FireShot Capture 004 - Atliq_mart_Supply_chain_analysis - Power BI - app powerbi com](https://user-images.githubusercontent.com/89390696/197983847-d5a418a9-52b7-45d3-96fa-2f4ae18a3080.png)
 
 ## Insights 
 
