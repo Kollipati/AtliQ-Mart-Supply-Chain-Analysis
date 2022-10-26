@@ -3,9 +3,7 @@ As part of the October month codebaiscs resume challenge, I have performed data 
 
 Challenge [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-Live Dashboard [Link]()
-
-Presentation Video [Link]()
+Live Dashboard [Link](https://www.novypro.com/project/like-3)
 
 ## Problem statement
 
